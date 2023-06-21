@@ -7,14 +7,14 @@ header{
     width: 100%;
     height: 90px;
     box-shadow: 2px 2px 2px gray;
-    
+    margin-bottom: 25px;
     
 }
 
 .menu-item{
     margin-right: 10%;
     margin-left: 10%;
-    margin-top: 20px;
+    margin-top: 30px;
 }
 body{
     font-family: 'Roboto', sans-serif;
@@ -34,7 +34,7 @@ h1{
 color:#fbfbfb;
 font-size: 20px;
 padding: 15px 25PX;
-border-radius: 40%;
+border-radius: 50%;
 }
 
 h2{
@@ -43,8 +43,9 @@ h2{
 
 .foto{
     border-radius: 50%;
+    width: 400px;
+    
 }
-
 
 p{
     margin-top: 20px;
@@ -82,8 +83,6 @@ section{
 min-height: 100vh;
 
 }
-
-
 
 #lila{
     background-color: rgba(175, 89, 158, 0.3) ;
