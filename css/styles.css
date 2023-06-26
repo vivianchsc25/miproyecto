@@ -43,7 +43,7 @@ h2{
 
 .foto{
     border-radius: 50%;
-    width: 400px;
+    width: 300px;
     
 }
 
@@ -92,8 +92,6 @@ min-height: 100vh;
 }
 
 .redes{
-    max: widht 40px;
-    height: auto;
     padding: 10%;
 }
 
